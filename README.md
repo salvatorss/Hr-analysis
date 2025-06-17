@@ -1,6 +1,6 @@
 # 🧠 HR Analytics Dashboard (Power BI)
 
-![Dashboard Screenshot](Screenshot%202025-05-18%20120836.png)
+![Screenshot 2025-05-18 120836](https://github.com/user-attachments/assets/a7064eae-91fc-4c7b-ab0c-791103a2472e)
 
 ## 📊 Project Overview
 
